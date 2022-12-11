@@ -13,7 +13,7 @@
     "body-parser": "^1.19.0",
     "braintree": "^2.20.0",
     "eslint": "^6.5.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.17.0",
     "ipfs": "^0.38.0",
     "orbit-db": "^0.22.0",
